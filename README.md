@@ -85,7 +85,7 @@ frequency and double-down value.
 Basic Strategy's theoretical 0.5% house edge assumes the player can
 double down and split pairs. Doubling on hard 10/11 vs. a weak dealer
 upcard, and splitting Aces and 8s, are the highest-EV plays in the
-game. This engine implements hit/stand decisions only — a known
+game. This engine implements hit/stand decisions only, which is a known
 simplification. Implementing double down and split is the next
 planned milestone, and the point at which the simulation should
 converge to the theoretical figure.
