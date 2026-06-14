@@ -1,4 +1,3 @@
-````markdown
 # Blackjack Monte Carlo Simulation Engine
 
 A quantitative Monte Carlo simulation engine for analyzing Blackjack
@@ -181,5 +180,4 @@ meaningfully distinguish strategy performance.
 * Griffin, P. (1979). *The Theory of Blackjack* — EV tables and strategy derivations.
 * Wizard of Odds — published Basic Strategy tables used to validate lookup implementation.
 
-```
 ```
