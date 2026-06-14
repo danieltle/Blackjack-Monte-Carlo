@@ -15,8 +15,8 @@ multi-layer simulation engine.
 ## What This Is
 
 Every Blackjack strategy has a mathematically optimal play for every
-situation. This engine tests whether that's true — and by how much
-suboptimal strategies cost you — by simulating millions of hands and
+situation. This engine tests whether that's true and by how much
+suboptimal strategies cost you by simulating millions of hands and
 measuring the results statistically.
 
 The project has four interconnected layers:
