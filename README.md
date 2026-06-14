@@ -1,13 +1,13 @@
 # Blackjack Monte Carlo Simulation Engine
 
-A quantitative Monte Carlo simulation engine for analyzing Blackjack
+A Monte Carlo simulation engine for analyzing Blackjack
 strategies, built in Java. Models player decision logic as a pluggable
 interface, runs up to 1,000,000 hands per strategy, and outputs
 statistical metrics including expected value, house edge, max drawdown,
 and 95% confidence intervals.
 
 Built as an extension of a CS 231 (Data Structures & Algorithms) project
-at Bowdoin College, refactored from a single-file game into a
+at Colby College, refactored from a single-file game into a
 multi-layer simulation engine.
 
 ---
