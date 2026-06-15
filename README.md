@@ -180,4 +180,12 @@ meaningfully distinguish strategy performance.
 * Griffin, P. (1979). *The Theory of Blackjack* — EV tables and strategy derivations.
 * Wizard of Odds — published Basic Strategy tables used to validate lookup implementation.
 
-```
+---
+
+## Author
+
+**Daniel Le**
+
+Mathematics & Statistics • Computer Science
+
+Colby College
